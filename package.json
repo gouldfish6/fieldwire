@@ -1,0 +1,24 @@
+{
+  "name": "fieldwire",
+  "version": "1.0.0",
+  "description": "A suite of staging tests for the Fieldwire website.",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouldfish6/fieldwire.git"
+  },
+  "author": "Clayton Gould",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gouldfish6/fieldwire/issues"
+  },
+  "homepage": "https://github.com/gouldfish6/fieldwire#readme",
+  "dependencies": {
+    "cypress": "^12.1.0",
+    "uuid": "^9.0.0"
+  }
+}
